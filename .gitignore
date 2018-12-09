@@ -1,0 +1,9 @@
+*.so
+*.c
+*.prof
+*.html
+*.txt
+profiling.py
+__pycache__/
+build/
+.ropeproject/
