@@ -7,3 +7,5 @@ profiling.py
 __pycache__/
 build/
 .ropeproject/
+*.ipynb
+*.lprof

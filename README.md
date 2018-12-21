@@ -2,10 +2,11 @@
 
 ## Current results
 ```
-n_test : 100
-python : 79.794ms/test
-cython : 21.098ms/test
-cython is 3.782x faster than python
+CONNECTIVITY : 2
+N_TEST : 100
+python : 77.137ms/test
+cython : 5.331ms/test
+cython is 14.468x faster than python
 ```
 
 ## Compiling bt_cy.pyx
